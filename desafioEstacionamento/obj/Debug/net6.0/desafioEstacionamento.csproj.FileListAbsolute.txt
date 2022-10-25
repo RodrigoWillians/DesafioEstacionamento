@@ -1,0 +1,15 @@
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\bin\Debug\net6.0\desafioEstacionamento.exe
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\bin\Debug\net6.0\desafioEstacionamento.deps.json
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\bin\Debug\net6.0\desafioEstacionamento.runtimeconfig.json
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\bin\Debug\net6.0\desafioEstacionamento.dll
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\bin\Debug\net6.0\desafioEstacionamento.pdb
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\obj\Debug\net6.0\desafioEstacionamento.csproj.AssemblyReference.cache
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\obj\Debug\net6.0\desafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\obj\Debug\net6.0\desafioEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\obj\Debug\net6.0\desafioEstacionamento.AssemblyInfo.cs
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\obj\Debug\net6.0\desafioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\obj\Debug\net6.0\desafioEstacionamento.dll
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\obj\Debug\net6.0\refint\desafioEstacionamento.dll
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\obj\Debug\net6.0\desafioEstacionamento.pdb
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\obj\Debug\net6.0\desafioEstacionamento.genruntimeconfig.cache
+C:\Users\Willians\Documents\Cursos\Curso C DIO\DesafioEstacionamento\desafioEstacionamento\obj\Debug\net6.0\ref\desafioEstacionamento.dll
